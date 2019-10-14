@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">C Counter</string>
+    <string name="team__a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="_0">0</string>
+    <string name="__0">0</string>
+    <string name="point_3">3 point</string>
+    <string name="_3_point">3 point</string>
+    <string name="point_2">2 point</string>
+    <string name="__2point">2 point</string>
+    <string name="free_throw">Free Throw</string>
+    <string name="freethrow_">Free Throw</string>
+    <string name="reset">Reset</string>
+    />
+
+</resources>
